@@ -12,4 +12,7 @@ like building a multilingual puzzle
 );
                        return (0);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> ea54c472bc2f28b766b5fef81afe7ddd04a4593a
